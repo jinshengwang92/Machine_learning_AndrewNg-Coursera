@@ -38,7 +38,7 @@ Finished by March 2017, offered on [Coursera](https://www.coursera.org/learn/mac
 * 8 Anomaly Detection and Recommender Systems 
 
 ## Congratulation page upon finishing this course:
-![alt text](http://localhost:8888/files/Machine_learning_AndrewNg%40Cousera/Finish_page_ML_Jinsheng.png)
+![alt text](https://github.com/jinshengwang92/Machine_learning_AndrewNg-Cousera/blob/master/Finish_page_ML_Jinsheng.png)
 
 
 ```python
